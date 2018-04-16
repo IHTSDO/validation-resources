@@ -1,0 +1,2 @@
+US Term	GB Terms
+fetal	foetal|foetals
